@@ -1,0 +1,68 @@
+A veces, cuando está importando desde un módulo, le gustaría saber si
+una función de módulos se está utilizando como una importación, o si está utilizando el original
+.py archivo de ese módulo. En este caso podemos utilizar:
+      if __name__ == "__main__":
+
+línea para determinar esto. Por ejemplo:
+
+Cuando su script se ejecuta pasándolo como un comando al intérprete de Python:
+
+    python miscript.py
+
+se ejecuta todo el código que está en el nivel de sangría 0. Las funciones y clases que están definidas están, bien, definidas, pero ninguno de sus códigos se ejecuta.
+A diferencia de otros lenguajes, no hay una función main () que se ejecute automáticamente
+- la función main () es implícitamente todo el código en el nivel superior.
+
+En este caso, el código de nivel superior es un bloque if. __name__ es una variable incorporada que evalúa el nombre del módulo actual. Sin embargo, si un módulo se está ejecutando directamente (como en miscript.py arriba), entonces __name__ se establece en la cadena "__main__". Por lo tanto, puede probar si su script se está ejecutando directamente o si lo está importando otra cosa al probar
+
+    if __name__ == "__main__":
+        ...
+
+Si ese código se está importando a otro módulo, se importarán las distintas definiciones de funciones y clases, pero el código main () no se ejecutará. Como ejemplo básico, considere los siguientes dos scripts:
+
+    # archivo uno.py
+    def func():
+        print("func() en uno.py")
+
+    print("De alto nivel en una.py")
+
+    if __name__ == "__main__":
+        print("uno.py esta corriendo directamente")
+    else:
+        print("uno.py esta siendo importado dentro otro modulo")
+
+y entonces:
+
+    # archivo two.py
+    import uno
+
+    print("De alto nivel en dos.py")
+    uno.func()
+
+    if __name__ == "__main__":
+        print("dos.py esta corriendo directamente")
+    else:
+        print("dos.py esta siendo importado dentro other modulo")
+
+Ahora, si tu invocas el interprete como
+
+    python uno.py
+
+La salida sera
+
+    De alto nivel en uno.py
+
+uno.py esta corriendo directamente
+Si tu ejecutas dos.py:
+
+    python dos.py
+
+Tu obtienes
+
+  De alto nivel en uno.py
+  uno.py esta siendo importado dentro otro modulo
+  De alto nivel en dos.py
+  func() en uno.py
+  dos.py esta corriendo directamente
+  
+Cuando el modulo uno es cargado, su __name__ es igual a "uno" en vez de __main__.

@@ -1,0 +1,203 @@
+Seccion 1: Vision General de Curso
+1.Auto-Mensaje de Bievenida
+2.Introduccion al Curso
+3.Descripción General del Plan de Estudios del Curso
+4.Porque Python
+5.Preguntas Frecuentes de Curso
+Seccion 2:Configuracion de Python
+6.Lineas de Comando Basicas
+7.Instalar Python (paso a paso)
+8.Ejecutar codigo Python
+9.Obtener Notas de Curso y Material del Curso
+10.Vision General de Git and Github (opcional)
+Seccion 3:Conceptos Basicos de Estructuras de Datos y Objetos Python
+11.Introduccion a tipos de datos en Python
+12.Numeros en Python
+Ejercicio de Programacion 1:Aritmetica Simple de Numeros
+13.Numeros - Preguntas Frecuentes
+Examen 1:Numeros
+14.Asignaciones Variables
+15.Introduccion a cadenas
+Ejercicio de Programacion 2:Rapida Verificacion de Impresion
+16.Indexar y seccionar cadenas
+Ejercicio de Programacion 3:Indexar cadenas
+Ejercicio de Programacion 4:Seccionar cadenas
+17.Metodos y Propiedades de Cadenas
+18.Preguntas Frecuentes - Cadenas
+Examen 2: Cadenas
+19.Formateo de Impresion con Cadenas
+20.Preguntas Frecuentes - Formateo de Impresion
+Ejercicio de Programacion 5:Formateo de Impresion
+21.Listas en Python
+Ejercicio de Programacion 6:Listas
+22.Preguntas Frecuentes - Listas
+23.Diccionarios en Python
+Ejercicio de Programacion 7:Diccionarios
+24.Preguntas Frecuentes - Diccionarios
+25.Tupla de Datos en Python
+Examen 5:Tupla de Datod
+26.Grupos en Python
+Ejercicio de Programacion 8:Grupos
+27.Datos Boleanos en Python
+Examen 6: Grupos y Datos Boleanos
+28.Entrada/Salida en Archivos con Python
+Ejercicio de Programacion 9:Entrada/Salida en Archivos
+29.Recursos para mas Practica Basica 
+30.Examen General de Objetos y Estructura de Datos en Python
+31.Solucion a Examen General de Objetos y Estructura de Datos en Python 
+Seccion 4:Operadores de Comparacion en Python
+32.Operadores de Comparacion en Python
+33.Enlazando Operadores de Comparacion en Python con Operadores Logicos
+Examen 7:Operadores de Comparacion
+Seccion 5.Declaraciones en Python
+34.Condicionante "if" "Elif" y "Else" en Python
+35.Bucles usando "For" en Python 
+36.Bucles usando "While" en Python
+37.Operadores utiles en Python
+38.Comprension de Listas en Python
+39.Examen General de Declaraciones en Python
+40.Solucion a Examen General de Declaraciones en Python
+Seccion 6.Metodos y Funciones
+41.Metodos y Documentacion de Python
+42.Introduccion a Funciones
+43.Definir teclado
+44.Funciones Basicas en Python
+45.Logica y Funciones Basicas en Python
+46.Desempacando Tupla de Datos con Funciones en Python
+47.Interacciones entre Funciones en Python
+48.Vision General de Funciones Rapidas Exercicios #1-10
+Examen 8: Rapida Verificacion de Soluciones
+Examen 10: Funciones #1: Funcion "print" Hello World
+Examen 11: Funciones #2: Funcion "print" Hello Name
+Examen 12: Funciones #3 - Boleanos simples
+Examen 13: Funciones #4 - Usando Boleanos
+Examen 14: Funciones #5: Matematicas simples
+Examen 15: Funciones #6: es even 
+Examen 16: Funciones #7: es greater than
+49.*args y **kwargs en Python
+Examen 17: Funciones #8: *args
+Examen 18: Funciones #9: pick evens
+Examen 19: Funciones #10: skyline
+50.Vision General - Ejercicios de Pratica de Funciones
+51.Solucion a Ejercicios de Practica de Funcion
+52.Practica de Funciones - Soluciones Nivel Uno
+53.Practica de Funciones - Soluciones Nivel Dos
+54.Solucion de Ejercicios de Funciones - Reto de Problema
+55.Expresiones Lambda, Map, y Funciones de Filtros
+56.Declaraciones Anidadas y Alcance
+57.Vision General Metodos y Funciones
+58.Soluciones a Metodos y Funciones
+Seccion 7:Hito Proyecto - 1
+59. Introduccion a ejercicios de calentamiento del Projecto
+60. Desplegar Informacion
+61. Aceptar Entrada de Datos de Usuario
+62. Validar Entrada de Datos de Usuario
+63. Simple Interaccion con Usuario
+64. Vision General de Primer Hito de Proyecto en Python
+65. Ayuda en Hito del Proyecto
+66. Solucion a Hito de Proyecto 1 - Parte Uno
+67. Solution a Hito de Proyecto 1 - Parte Dos
+Seccion 8:Programacion Orientada a Objetos
+68.Programacion Orientada a Objetos - Introduccion
+69.Programacion Orientada a Objetos - Palabras clave, Atributos y Clase
+70.Programacion Orientada a Objetos - Clases, Atributos de Objetos y Metodos
+71.Programacion Orientada a Objetos - Herencia y Poliformismo
+72.Programacion Orientada a Objetos - Metodos especiales (Magico/Dunder)
+73.Programacion Orientada a Objetos - Ejercicios
+74.Programacion Orientada a Objetos - Solucion a Ejercicios
+75.Programacion Orientada a Objetos - Reto
+76.Programacion Orientada a Objetos - Solucion Reto
+Seccion 9:Modulos y Paquetes
+77.Instalar "pip" y "PyPi"
+78.Modulos y Paquetes
+79."_name_" y "_main"
+Seccion 10:Errores y Manejando Excepciones
+80.Errores y Manejando Excepciones
+81.Ejercicios de Errores y Manejando Excepciones
+82.Solucion a Ejercicios de Errores y Excepciones
+83.Actualizacion para Usuarios Pylin
+84.Vistazo General Pylint
+85.Executar Pruebas con la Libreria Unittest
+Seccion 11:Hito Proyecto - 2
+86.Introduccion a Hitos de Proyecto 2 Seccion de Calentamiento
+87.Clase Card
+88.Clase Deck
+89.Clase Player
+90.Logica de Juego - Parte Uno
+91.Logica de Juego - Parte Dos
+92.Logica de Juego - Parte Tres
+93.Vistazo General Proyecto 2
+94.Solucion - Clases Card y Deck
+95.Solucion - Clases Hand y Chip
+96.Solucion - Funcciones para Juego
+97.Solucion - Secuencia Final de Comandos para Juego
+Seccion 12:Decoradores en Python
+98.Vistazo General Decoradores en Python
+99.Ejercicios de Decoracion
+Seccion 13:Generadores en Python
+100.Generadores en Python
+101.Ejercicios de Generadores
+102.Solucion a Ejercicios de Generadores
+Seccion 14:Modulos Avanzados en Python
+103.Introduccion a Modulos Avanzados en Python
+104.Modulo Colecciones en Python
+105.Abrir y Cerrar Archivos y Carpetas (Modulo OS en Python)
+106.Modulo de Fecha y Tiempo en Python
+107.Modulos de datos Aleatorios y Matematicas en Python
+108.Depurador en Python
+109.Expresiones Regulares en Python Parte Uno
+110.Expresiones Regulares en Python Parte Dos
+111.Expresiones Regulares en Python Parte Tres
+112.Programando tu codigo Python
+113.Comprimiendo y descomprimiendo Archivos en Python
+114.Modulo Avanzado de Rompecabezas en Python
+115.Solucion a Modulo Avanzado de Rompecabezas en Python
+Seccion 15:Extraccion de Datos en Web con Python
+116.Introduccion a Extraccion de Datos en Web
+117.Configurando Librerias para Extraccion de Datos en Web
+118.Extraccion de Datos en Web con Python - Extrayendo un Titulo
+119.Extraccion de Datos en Web con Python - Extrayendo una Clase
+120.Extraccion de Datos en Web con Python - Extrayendo una Imagen
+121.Extraccion de Datos en Web con Python - Exemplos de Reserva Parte Uno
+122.Extraccion de Datos en Web con Python - Exemplos de Reserva Parte Dos
+123.Extraccion de Datos en Web con Python - Exercicios
+124.Extraccion de Datos en Web con Python - Solucion a Ejercicios
+Seccion 16:Trabajando con images en Python
+125.Introduccion a Imagenes en Python
+126.Trabajando con Imagenes en Python
+127.Ejercicios de Imagenes en Python
+128.Solucion a Ejercicios de Imagenes en Python
+Seccion 17:Trabajando con Archivos PDFs y hojas de calculo CSV
+129.Introduccion a Archivos PDFs y Hojas de Calculo en Python
+130.Trabajando con Archivos CSVs en Python
+131.Trabajando con Archivos PDFs en Python
+132.Ejercicios de PDFs y Hojas de Calculo Rompecabezas
+133.Solucion a Ejericicios de PDFs y Hojas de Calculo Rompecabezas en Python
+Seccion 18:Emails en Python
+134.Introduccion a Emails en Python
+135.Enviar Emails en Python
+136.Recibir Emails en Python
+Seccion 19:Culminacion Final de Proyecto en Python 
+137.Culminacion Final de Project
+Seccion 20:Objetos Avanzados y Estructura de Datos en Python
+138.Numeros Avanzados
+139.Cadenas de caracteres Avanzados
+140.Grupos Avanzados
+141.Diccionarios Avanzados
+142.Listas Avanzados
+143.Examen Evaluacion de Objetos en Python Avanzados
+144.Solucion a Examen Evaluacion de Objetos en Python Avanzados
+Seccion 21:Introduccion a GUIs
+145.Introduccion a GUIs
+146.Nota Rapida acerca ipywidgets
+147.Funcionalidad Interect con GUIs
+148.Artilugio de GUI
+149.Lista de Posibles Artilugios
+150.Estilos y Diseno de Artilugios
+151.Ejemplo lo que un artilugio puede hacer
+Seccion 22:Antigua Version Python 2
+152.Objetos y Estructura de Datos
+153.Operadores de Comparacion
+154.Operadores de Comparacion enlazados
+Seccion 23:Agradecimiento
+155.Lectura

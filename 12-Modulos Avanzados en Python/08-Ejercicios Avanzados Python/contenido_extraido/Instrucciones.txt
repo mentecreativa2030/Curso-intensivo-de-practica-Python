@@ -1,0 +1,5 @@
+¡Buen trabajo descomprimiendo el archivo!
+Ahora debería ver 5 carpetas, cada una con una gran cantidad de archivos .txt aleatorios.
+Dentro de uno de estos archivos de texto hay un número de teléfono con el formato ### - ### - ####
+Utilice el módulo del sistema operativo de Python y las expresiones regulares para recorrer cada archivo, abrirlo y buscar un número de teléfono.
+¡Buena suerte!
